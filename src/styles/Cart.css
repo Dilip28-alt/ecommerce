@@ -1,0 +1,15 @@
+.cart-page {
+  background-color: #f8fafc;
+}
+
+.shadow-xs {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.quantity-btn-group button {
+  background-color: #f8fafc;
+}
+
+.quantity-btn-group button:hover {
+  background-color: #e2e8f0;
+}

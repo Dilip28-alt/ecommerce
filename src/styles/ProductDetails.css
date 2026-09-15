@@ -1,0 +1,33 @@
+.bg-slate-100 {
+  background-color: #f1f5f9;
+}
+
+.detail-product-img {
+  transition: transform 0.4s ease;
+}
+
+.detail-product-img:hover {
+  transform: scale(1.03);
+}
+
+.quantity-selector button {
+  background-color: #f8fafc;
+}
+
+.quantity-selector button:hover {
+  background-color: #e2e8f0;
+}
+
+.leading-relaxed {
+  line-height: 1.7;
+}
+
+/* Chrome, Safari, Edge, Opera remove number input arrows */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type=number] {
+  -moz-appearance: textfield;
+}
